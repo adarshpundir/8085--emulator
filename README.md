@@ -19,7 +19,7 @@ Tools used:-
  2) operator.java
  3) conversion.java
  
- you hava to run only main file(Main.java) you can run this on command prompt of typing javac <filename> and then java <java class filename>
+ you hava to run only main file(Main.java) you can run this on command prompt of typing [javac filename] and then java [java class filename]
   or you can use ide (integrated development environment) like Netbeans,Eclipse etc.
 
 
