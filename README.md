@@ -6,7 +6,7 @@ you can add more commands
 
 
 Objective:-
-  To make siulator of 8085 .
+  To make simulator of 8085 .
 
 
 
