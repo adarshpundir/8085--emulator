@@ -16,8 +16,8 @@ Tools used:-
   How to run program:-
   this project contains three files 
  1) Main.java
- 2) operator.java
- 3) conversion.java
+ 2) operations.java
+ 3) size_and_conversions.java
  
  you hava to run only main file(Main.java) you can run this on command prompt of typing [javac filename] and then java [java class filename]
   or you can use ide (integrated development environment) like Netbeans,Eclipse etc.
